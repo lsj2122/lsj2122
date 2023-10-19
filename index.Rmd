@@ -45,5 +45,5 @@ plot_df |>
 
 My cat is Ted. This is ted:
 
-![](images/ted.jpg)
+![](images/ted.jpeg)
 
