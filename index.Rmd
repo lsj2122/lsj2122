@@ -43,7 +43,7 @@ plot_df |>
 
 # Here's a new section
 
-My cat is Ted. This is ted:
+My cat is Ted. This is Ted:
 
 ![](images/ted.jpeg)
 
